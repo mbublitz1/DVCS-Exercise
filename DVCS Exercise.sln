@@ -27,6 +27,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_Website", "DVCS_Websit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.Data", "System.Data\System.Data.csproj", "{7F28BC4D-AC7A-4189-B116-F4311DDCF18F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "System.System", "System.System\System.System.csproj", "{066E995C-4F36-495E-B7E9-DCA5ACA491DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{7F28BC4D-AC7A-4189-B116-F4311DDCF18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F28BC4D-AC7A-4189-B116-F4311DDCF18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F28BC4D-AC7A-4189-B116-F4311DDCF18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066E995C-4F36-495E-B7E9-DCA5ACA491DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066E995C-4F36-495E-B7E9-DCA5ACA491DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066E995C-4F36-495E-B7E9-DCA5ACA491DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066E995C-4F36-495E-B7E9-DCA5ACA491DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
